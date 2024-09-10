@@ -34,3 +34,7 @@
 
 - Tạo code cho khác hàng dùng để cho khách hàng add để giảm giá
 - Khách với gift products , gift products là 1 loại sp, khách hàng mua để tặng cho người thân
+
+# Catalogs
+
+- Cho phép custom price, tạo ra các custom để giảm or tăng giá cho 1 or nhiều sản phẩm
